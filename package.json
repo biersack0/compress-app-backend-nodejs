@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "ts-node-dev src/index.ts",
     "build": "tsc",
-    "start": "node ./dist/index.js"
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
